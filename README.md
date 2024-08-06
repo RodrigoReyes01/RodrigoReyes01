@@ -8,7 +8,7 @@ I'm a 23-year-old Computer Science student from Guatemala with a keen interest i
 
 ### 🚀 Featured Projects
 
-#### [Project 1: Data Science Currency Exchange Prediction ]([https://github.com/yourusername/weather-data-analysis](https://github.com/RodrigoReyes01/IBM-Coursera-Advanced-Data-Science-Capstone-Rodrigo-Reyes))
+#### [Project 1: Data Science Currency Exchange Prediction ](https://github.com/RodrigoReyes01/IBM-Coursera-Advanced-Data-Science-Capstone-Rodrigo-Reyes)
 - Predict currency exchange rates using machine learning algorithms
 - Utilizes historical data and advanced statistical models
 - Uses skills like ETL, AI Deep Learning, and Statistics
