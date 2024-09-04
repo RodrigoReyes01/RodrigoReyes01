@@ -18,7 +18,7 @@ I'm a 23-year-old Computer Science student from Guatemala with a keen interest i
 - Features include adding, editing, and visualizing expenses data
 - Provides insights into spending habits and financial management
 
-#### [Project 3: Workify](https://github.com/RodrigoReyes01/shopping-web)
+#### [Project 3: Workify in SQL and NoSQL](https://github.com/RodrigoReyes01/shopping-web)
 - N/A
 - N/A
 - N/A
