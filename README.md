@@ -27,7 +27,7 @@ I'm a 23-year-old Computer Science student from Guatemala with a keen interest i
 
 ### 📬 Connect with Me
 
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)Rodrigo Reyes](https://www.linkedin.com/in/rodrigo-reyes-8421062ab/)
+- [![Rodrigo Reyes](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-reyes-8421062ab/)
 - **University Email:** [rodrigoreyes@ufm.edu](mailto:rodrigoreyes@ufm.edu)
 - **Personal Email:** [kchito2001@gmail.com](mailto:kchito2001@gmail.com)
 
