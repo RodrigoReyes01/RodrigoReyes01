@@ -18,7 +18,7 @@ I'm a 23-year-old Computer Science student from Guatemala with a keen interest i
 - Features include adding, editing, and visualizing expenses data
 - Provides insights into spending habits and financial management
 
-#### [Project 3: Workify in SQL and NoSQL](https://github.com/RodrigoReyes01/shopping-web)
+#### [Project 3: Workify in SQL and NoSQL](https://github.com/RodrigoReyes01/workify)
 - Utilizes MySQL as the relational database to manage structured data
 - Leverages Sequelize ORM for queries, migrations, and schema definitions.
 - Migrated to MongoDB for a document-oriented database structure, Uses Mongoose to define schemas and manage MongoDB interactions
